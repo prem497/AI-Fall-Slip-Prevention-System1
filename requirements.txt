@@ -7,3 +7,5 @@ streamlit
 numpy
 pillow
 opencv-python-headless
+torch==1.13.1+cpu
+torchvision==0.14.1+cpu
