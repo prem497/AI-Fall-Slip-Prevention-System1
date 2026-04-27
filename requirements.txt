@@ -3,15 +3,9 @@
 # Dependencies
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# AI Fall & Slip Prevention System
-# Dependencies
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 opencv-python-headless==4.8.1.78
-numpy
-streamlit
-torch
-torchvision
+numpy==1.24.4
+streamlit==1.32.0
+torch==2.0.1
+torchvision==0.15.2
 pillow
-
